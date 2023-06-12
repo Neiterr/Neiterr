@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neiterr
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently learning TS, JS, React
 - 💞️ I’m looking to collaborate on UE4 
 - 📫 How to reach me - never try to reach me! 
 
