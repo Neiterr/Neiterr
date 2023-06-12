@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Neiterr
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning TS, JS, React
-- 💞️ I’m looking to collaborate on UE4 
+- 👋 Hi, I’m @Neiterr 
+- 👀 I’m interested in Mobile App Development 
+- 🌱 I’m currently learning TS, JS, React 
+- 💞️ I’m looking something special 
 - 📫 How to reach me - never try to reach me! 
 
 <!---
